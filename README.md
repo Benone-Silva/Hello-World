@@ -1,2 +1,2 @@
-# Hello-World
-Aprendizagem de C
+# O que estou estudando agora
+
